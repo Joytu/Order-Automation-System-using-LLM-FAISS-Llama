@@ -2,7 +2,7 @@
 
 This notebook implements an end-to-end system for **automating the processing of customer orders** for steel products in a foreign language. It intelligently maps informal queries to structured product orders with specific catalog SKUs.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Joytu/0cbb8b534393a2ebf6a82b6733a7c443/notebook_iconicchainhw_mahira.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyveL06cXCtUuzkXJ3YOLNKxNiCL_1Cz?usp=sharing)
 
 ---
 
